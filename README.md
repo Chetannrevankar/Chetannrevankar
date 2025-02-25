@@ -1,9 +1,9 @@
-<!-- Banner GIF -->
+
 <p align="center">
     <img src="Chetannrevankar.gif" alt="Banner GIF">
 </p>
 
-<!-- Title & Tagline -->
+
 <h1 align="center"><img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="80px">I'm Chetan Revankar</h1>
 <h3>🚀 Smart Data | Smarter Future | Smart AI 🤖</h3>
 
