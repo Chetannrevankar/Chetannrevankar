@@ -56,12 +56,12 @@
 <table align="center">
   <tr>
     <td width="33%">
-      <strong><a href="Al-Bl_Certificate.pdf" target="_blank" rel="noopener noreferrer">🤖 Artificial Intelligence - Business Intelligence Analyst</a></strong><br>
+      <strong><a href="AI-BI_Certificate.pdf" target="_blank" rel="noopener noreferrer">🤖 Artificial Intelligence - Business Intelligence Analyst</a></strong><br>
       <em> National Skill Development Corporation</em><br>
       <sub><b>✨ Skills:</b> AI, Machine Learning Algorithms, Jupyter Notebook, Data Importing & Preprocessing, EDA, Data Visualization, Deep Learning, Neural Networks, PyTorch, TensorFlow, Business Requirement Gathering, Employability Skills, Sustainable & Inclusive Practices</sub>
     </td>
     <td width="33%">
-      <strong><a href="CCNAI_Certificate.pdf" target="_blank" rel="noopener noreferrer">🌐 Cisco Certified Network Associate (CCNA)</a></strong><br>
+      <strong><a href="CCNA1_Certificate.pdf" target="_blank" rel="noopener noreferrer">🌐 Cisco Certified Network Associate (CCNA)</a></strong><br>
       <em> Cisco Networking Academy</em><br>
       <sub><b>✨ Skills:</b> Configuring Switches & Devices, Routing & Connectivity, Network Troubleshooting, Ethernet, Layer 2 Technologies, Network Security, IPv4 & IPv6 Routing</sub>
     </td>
@@ -83,7 +83,7 @@
       <sub><b>✨ Skills:</b> Data Pipelines, ETL Processes, Data Warehousing, PySpark, Microsoft Azure, Cloud Platforms, Data Modeling, Database Design</sub>
     </td>
     <td width="33%">
-      <strong><a href="AutomobilelnpIantTraining_Certificate.pdf" target="_blank" rel="noopener noreferrer">🚗 Inplant Training in Automobile</a></strong><br>
+      <strong><a href="AutomobileInplantTraining_Certificate.pdf" target="_blank" rel="noopener noreferrer">🚗 Inplant Training in Automobile</a></strong><br>
       <em>🏭 Automobile Domain</em><br>
       <sub><b>🔩 Skills:</b> Gear Mechanism, OBD-II Systems, ECU Optimization, Fuel Efficiency, Emission Control, Root Cause Analysis, Engine Management System, Diagnostic Scanners, ECU Programming</sub>
     </td>
