@@ -1,20 +1,15 @@
-
 <p align="center">
     <img src="Chetannrevankar.gif" alt="Banner GIF">
 </p>
-
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="80px">I'm Chetan Revankar</h1>
 <h3>🚀 Smart Data | Smarter Future | Smart AI 🤖</h3>
 
 ---
 
-🌟 I’m on a mission with Data Engineering
-
-🌱 I’m exploring some mind-blowing stuff like Generative AI
-
-💬 Wanna know something cool ? Ask me about Data Engineering , Full Stack GenAI , Networking CCNA
-
+🌟 I’m on a mission with Data Engineering  
+🌱 I’m exploring some mind-blowing stuff like Generative AI  
+💬 Wanna know something cool? Ask me about Data Engineering, Full Stack GenAI, Networking CCNA  
 ⚡ Crazy little secret...! I’m a Data Engineer by day, Full Stack GenAI developer by night, and a CCNA ninja whenever the Wi-Fi goes down!
 
 ---
@@ -51,8 +46,51 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="40" width="40"/> 
 </p>
+
+---
+
+<h3 align="center">🎓 Certifications</h3>
+
+<table align="center">
+  <tr>
+    <td width="33%">
+      <strong>🤖 Artificial Intelligence - Business Intelligence Analyst</strong><br>
+      <em>National Skill Development Corporation</em><br>
+      <sub><b>✨ Skills:</b> AI, Machine Learning Algorithms, Jupyter Notebook, Data Importing & Preprocessing, EDA, Data Visualization, Deep Learning, Neural Networks, PyTorch, TensorFlow, Business Requirement Gathering, Employability Skills, Sustainable & Inclusive Practices</sub>
+    </td>
+    <td width="33%">
+      <strong>🌐 Cisco Certified Network Associate (CCNA)</strong><br>
+      <em> Cisco Networking Academy</em><br>
+      <sub><b>⚙️ Skills:</b> Configuring Switches & Devices, Routing & Connectivity, Network Troubleshooting, Ethernet, Layer 2 Technologies,  Network Security, IPv4 & IPv6 Routing</sub>
+    </td>
+    <td width="33%">
+      <strong>📚 Machine Learning Foundation</strong><br>
+      <em> Infosys Springboard</em><br>
+      <sub><b>✨ Skills:</b> Machine Learning Algorithms, Applied ML, Supervised & Unsupervised Learning, Model Evaluation, Data Preprocessing, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <strong>💼 Betsol HR Workshop</strong><br>
+      <em> BETSOL</em><br>
+      <sub><b>✨ Skills:</b> Interview Techniques, Personal Branding, Networking Scenarios, Group Projects, Teamwork, Problem-Solving, Communication</sub>
+    </td>
+    <td width="33%">
+      <strong>🔧 Data Engineering</strong><br>
+      <em> RNSIT-Official</em><br>
+      <sub><b>✨ Skills:</b> Data Pipelines, ETL Processes, Data Warehousing, PySpark, Microsoft Azure, Cloud Platforms, Data Modeling, Database Design</sub>
+    </td>
+    <td width="33%">
+      <strong>🚗 Inplant Training in Automobile</strong><br>
+      <em> Automobile Domain</em><br>
+      <sub><b>✨ Skills:</b> Gear Mechanism, OBD-II Systems, ECU Optimization, Fuel Efficiency, Emission Control, Root Cause Analysis, Engine Management System, Diagnostic Scanners, ECU Programming</sub>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
