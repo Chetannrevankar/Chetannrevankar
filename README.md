@@ -78,7 +78,7 @@
       <sub><b>✨ Skills:</b> Interview Techniques, Personal Branding, Networking Scenarios, Group Projects, Teamwork, Problem-Solving, Communication</sub>
     </td>
     <td width="33%">
-      <strong><a href="DataEngineeringWorkshop_Certificate.pdf" target="_blank" rel="noopener noreferrer">🔧 Data Engineering</a></strong><br>
+      <strong><a href="DataEngineeringWorkshop_Certificate.pdf" target="_blank" rel="noopener noreferrer">🔧📊 Data Engineering</a></strong><br>
       <em> RNSIT-Official</em><br>
       <sub><b>✨ Skills:</b> Data Pipelines, ETL Processes, Data Warehousing, PySpark, Microsoft Azure, Cloud Platforms, Data Modeling, Database Design</sub>
     </td>
