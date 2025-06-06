@@ -56,36 +56,36 @@
 <table align="center">
   <tr>
     <td width="33%">
-      <strong>🤖 Artificial Intelligence - Business Intelligence Analyst</strong><br>
-      <em>National Skill Development Corporation</em><br>
+      <strong><a href="Al-Bl_Certificate.pdf" target="_blank" rel="noopener noreferrer">🤖 Artificial Intelligence - Business Intelligence Analyst</a></strong><br>
+      <em> National Skill Development Corporation</em><br>
       <sub><b>✨ Skills:</b> AI, Machine Learning Algorithms, Jupyter Notebook, Data Importing & Preprocessing, EDA, Data Visualization, Deep Learning, Neural Networks, PyTorch, TensorFlow, Business Requirement Gathering, Employability Skills, Sustainable & Inclusive Practices</sub>
     </td>
     <td width="33%">
-      <strong>🌐 Cisco Certified Network Associate (CCNA)</strong><br>
+      <strong><a href="CCNAI_Certificate.pdf" target="_blank" rel="noopener noreferrer">🌐 Cisco Certified Network Associate (CCNA)</a></strong><br>
       <em> Cisco Networking Academy</em><br>
-      <sub><b>⚙️ Skills:</b> Configuring Switches & Devices, Routing & Connectivity, Network Troubleshooting, Ethernet, Layer 2 Technologies,  Network Security, IPv4 & IPv6 Routing</sub>
+      <sub><b>✨ Skills:</b> Configuring Switches & Devices, Routing & Connectivity, Network Troubleshooting, Ethernet, Layer 2 Technologies, Network Security, IPv4 & IPv6 Routing</sub>
     </td>
     <td width="33%">
-      <strong>📚 Machine Learning Foundation</strong><br>
+      <strong><a href="ML_Certificate.pdf" target="_blank" rel="noopener noreferrer">📚 Machine Learning Foundation</a></strong><br>
       <em> Infosys Springboard</em><br>
       <sub><b>✨ Skills:</b> Machine Learning Algorithms, Applied ML, Supervised & Unsupervised Learning, Model Evaluation, Data Preprocessing, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch</sub>
     </td>
   </tr>
   <tr>
     <td width="33%">
-      <strong>💼 Betsol HR Workshop</strong><br>
+      <strong><a href="Betsol_Certificate.pdf" target="_blank" rel="noopener noreferrer">💼 Betsol HR Workshop</a></strong><br>
       <em> BETSOL</em><br>
       <sub><b>✨ Skills:</b> Interview Techniques, Personal Branding, Networking Scenarios, Group Projects, Teamwork, Problem-Solving, Communication</sub>
     </td>
     <td width="33%">
-      <strong>🔧 Data Engineering</strong><br>
+      <strong><a href="DataEngineeringWorkshop_Certificate.pdf" target="_blank" rel="noopener noreferrer">🔧 Data Engineering</a></strong><br>
       <em> RNSIT-Official</em><br>
       <sub><b>✨ Skills:</b> Data Pipelines, ETL Processes, Data Warehousing, PySpark, Microsoft Azure, Cloud Platforms, Data Modeling, Database Design</sub>
     </td>
     <td width="33%">
-      <strong>🚗 Inplant Training in Automobile</strong><br>
-      <em> Automobile Domain</em><br>
-      <sub><b>✨ Skills:</b> Gear Mechanism, OBD-II Systems, ECU Optimization, Fuel Efficiency, Emission Control, Root Cause Analysis, Engine Management System, Diagnostic Scanners, ECU Programming</sub>
+      <strong><a href="AutomobilelnpIantTraining_Certificate.pdf" target="_blank" rel="noopener noreferrer">🚗 Inplant Training in Automobile</a></strong><br>
+      <em>🏭 Automobile Domain</em><br>
+      <sub><b>🔩 Skills:</b> Gear Mechanism, OBD-II Systems, ECU Optimization, Fuel Efficiency, Emission Control, Root Cause Analysis, Engine Management System, Diagnostic Scanners, ECU Programming</sub>
     </td>
   </tr>
 </table>
