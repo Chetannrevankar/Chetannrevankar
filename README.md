@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative%20AI-6E57E0?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=facebook&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-1ABC9C?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
@@ -98,9 +97,11 @@
 <h3 align="center">🔥 Top Skills Used</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Engineering-%230075A8.svg?&style=for-the-badge&logo=Databricks&logoColor=white" alt="Data Engineering"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?&style=for-the-badge&logo=Scikit-learn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/Generative%20AI-%23FF6F00.svg?&style=for-the-badge&logo=OpenAI&logoColor=white" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/CCNA%20Networking-%234285F4.svg?&style=for-the-badge&logo=Cisco&logoColor=white" alt="CCNA Networking"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?&style=for-the-badge&logo=Scikit-learn&logoColor=white" alt="Machine Learning"/>
+  
 </p>
 
 ---
